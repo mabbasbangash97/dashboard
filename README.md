@@ -1,6 +1,6 @@
-# Dashboard Frontend
+# Dashboard Frontend & Backend
 
-This project is a simple dashboard frontend built with Next.js, React, and Tailwind CSS.
+This project is a simple dashboard frontend built with Next.js, React, and Tailwind CSS and backend built with Node.js.
 
 ## Getting Started
 
