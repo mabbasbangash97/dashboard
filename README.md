@@ -12,7 +12,7 @@ This project is a simple dashboard frontend built with Next.js, React, and Tailw
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mabbasbangash97/dashboard-FE-BE.git
+git clone https://github.com/mabbasbangash97/dashboard.git
 
 cd dashboard/backend
 
